@@ -52,6 +52,7 @@ admin.site.register(bankloan,userAdmin)
 
 # OUTPUT
 ![alt text](<Screenshot 2024-12-01 133413.png>)
+![alt text](<Screenshot 2024-12-12 214528.png>)
 ![alt text](<Screenshot 2024-11-14 161421.png>)
 
 # RESULT
