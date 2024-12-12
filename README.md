@@ -49,7 +49,7 @@ admin.site.register(bankloan,userAdmin)
 
 ```
 # Create your models here.
-
+env
 # OUTPUT
 ![alt text](<Screenshot 2024-12-01 133413.png>)
 ![alt text](<Screenshot 2024-12-12 214528.png>)
